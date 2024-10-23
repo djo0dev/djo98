@@ -1,0 +1,1 @@
+{"version":3,"file":"order-event.js","sourceRoot":"","sources":["../../../src/event-bus/events/order-event.ts"],"names":[],"mappings":";;;AAEA,oDAAgD;AAEhD;;;;;;;GAOG;AACH,MAAa,UAAW,SAAQ,4BAAY;IACxC,YACW,GAAmB,EACnB,KAAY,EACZ,IAAuC;QAE9C,KAAK,EAAE,CAAC;QAJD,QAAG,GAAH,GAAG,CAAgB;QACnB,UAAK,GAAL,KAAK,CAAO;QACZ,SAAI,GAAJ,IAAI,CAAmC;IAGlD,CAAC;CACJ;AARD,gCAQC"}
